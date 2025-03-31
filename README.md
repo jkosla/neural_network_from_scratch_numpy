@@ -1,3 +1,41 @@
+# 🚀 Neural Network From Scratch in Python
+
+This repository contains the full implementation of a **simple neural network built from scratch** in Python, as demonstrated in my [Medium article](<Article Link>).
+
+---
+
+## 📖 Overview
+
+In this project, we build a **fully connected neural network** from scratch without using deep learning libraries like PyTorch or TensorFlow. The implementation includes:
+
+- **Forward Propagation**
+- **Backpropagation**
+- **Training with Gradient Descent**
+- **Evaluation & Accuracy Calculation**
+
+The code is designed to be simple and educational, demonstrating the core concepts of neural networks. Perfect for beginners who want to understand how neural networks work under the hood!
+
+---
+
+## 📂 Files
+
+- `simple_nn.py` — Implementation of the neural network.
+- `train.py` — Training script with evaluation functions.
+- `dataset.py` — Helper functions for data processing and evaluation.
+---
+
+## 💡 Getting Started
+
+### Requirements
+- Python 3.x
+- NumPy
+
+Install dependencies:
+```bash
+pip install numpy
+```
+## Usage:
+
 ```python
 %matplotlib inline
 from dataset import visualize_classification, XORDataset
