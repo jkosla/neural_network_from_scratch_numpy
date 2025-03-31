@@ -1,4 +1,4 @@
-# 🚀 Neural Network From Scratch in Python
+# 🧠 Neural Network From Scratch in Python
 
 This repository contains the full implementation of a **simple neural network built from scratch** in Python, as demonstrated in my [Medium article](<Article Link>).
 
