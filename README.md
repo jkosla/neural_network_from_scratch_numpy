@@ -33,6 +33,7 @@ The code is designed to be simple and educational, demonstrating the core concep
 Install dependencies:
 ```bash
 pip install numpy
+pip install matplotlib
 ```
 ## Usage:
 
